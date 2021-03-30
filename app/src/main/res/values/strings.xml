@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">COVID</string>
+    <string name="title_map">Mapa</string>
+    <string name="title_statistics">Estadisticas</string>
+    <string name="title_news">Noticias</string>
+    <string name="title_emergencies">Emergencias</string>
+    <string name="country">Country:</string>
+    <string name="confirmed">Confirmados</string>
+    <string name="deaths">Muertos</string>
+    <string name="recovered">Recuperados</string>
+    <string name="category">Categoria:</string>
+    <string name="estadisticas_covid_19">Estadísticas COVID-19:</string>
+</resources>
