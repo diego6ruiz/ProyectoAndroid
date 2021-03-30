@@ -6,16 +6,16 @@
     app:startDestination="@+id/navigation_map">
 
     <fragment
-        android:id="@+id/navigation_map"
-        android:name="com.example.covid.ui.fragments.fragments.MapsFragment"
-        android:label="@string/title_map"
-        tools:layout="@layout/fragment_maps" />
-
-    <fragment
         android:id="@+id/navigation_statistics"
         android:name="com.example.covid.ui.fragments.fragments.StatisticsFragment"
         android:label="@string/title_statistics"
         tools:layout="@layout/fragment_statistics" />
+
+    <fragment
+        android:id="@+id/navigation_map"
+        android:name="com.example.covid.ui.fragments.fragments.MapsFragment"
+        android:label="@string/title_map"
+        tools:layout="@layout/fragment_maps" />
 
     <fragment
         android:id="@+id/navigation_news"
